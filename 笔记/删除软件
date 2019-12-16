@@ -1,0 +1,119 @@
+<pre><font color="#8AE234"><b>wuhy@wuhy</b></font>:<font color="#729FCF"><b>~</b></font>$ apt remove 
+Display all 1611 possibilities? (y or n)
+<font color="#8AE234"><b>wuhy@wuhy</b></font>:<font color="#729FCF"><b>~</b></font>$ apt remove a
+accountsservice           anacron                   aptdaemon-data
+acl                       apg                       apturl
+acpid                     apparmor                  apturl-common
+acpi-support              app-install-data-partner  apt-utils
+adduser                   apport                    aspell
+adium-theme-ubuntu        apport-gtk                aspell-en
+adwaita-icon-theme        apport-symptoms           at-spi2-core
+aisleriot                 appstream                 avahi-autoipd
+alsa-base                 apt                       avahi-daemon
+alsa-utils                apt-config-icons          avahi-utils
+amd64-microcode           aptdaemon                 
+<font color="#8AE234"><b>wuhy@wuhy</b></font>:<font color="#729FCF"><b>~</b></font>$ apt remove a
+accountsservice           anacron                   aptdaemon-data
+acl                       apg                       apturl
+acpid                     apparmor                  apturl-common
+acpi-support              app-install-data-partner  apt-utils
+adduser                   apport                    aspell
+adium-theme-ubuntu        apport-gtk                aspell-en
+adwaita-icon-theme        apport-symptoms           at-spi2-core
+aisleriot                 appstream                 avahi-autoipd
+alsa-base                 apt                       avahi-daemon
+alsa-utils                apt-config-icons          avahi-utils
+amd64-microcode           aptdaemon                 
+<font color="#8AE234"><b>wuhy@wuhy</b></font>:<font color="#729FCF"><b>~</b></font>$ apt remove ma
+man-db    manpages  mawk      
+<font color="#8AE234"><b>wuhy@wuhy</b></font>:<font color="#729FCF"><b>~</b></font>$ apt remove ma
+man-db    manpages  mawk      
+<font color="#8AE234"><b>wuhy@wuhy</b></font>:<font color="#729FCF"><b>~</b></font>$ apt remove a
+accountsservice           anacron                   aptdaemon-data
+acl                       apg                       apturl
+acpid                     apparmor                  apturl-common
+acpi-support              app-install-data-partner  apt-utils
+adduser                   apport                    aspell
+adium-theme-ubuntu        apport-gtk                aspell-en
+adwaita-icon-theme        apport-symptoms           at-spi2-core
+aisleriot                 appstream                 avahi-autoipd
+alsa-base                 apt                       avahi-daemon
+alsa-utils                apt-config-icons          avahi-utils
+amd64-microcode           aptdaemon                 
+<font color="#8AE234"><b>wuhy@wuhy</b></font>:<font color="#729FCF"><b>~</b></font>$ cd /usr/share/application
+bash: cd: /usr/share/application: 没有那个文件或目录
+<font color="#8AE234"><b>wuhy@wuhy</b></font>:<font color="#729FCF"><b>~</b></font>$ cd /usr/share/application
+application-registry/ applications/         
+<font color="#8AE234"><b>wuhy@wuhy</b></font>:<font color="#729FCF"><b>~</b></font>$ cd /usr/share/applications/
+<font color="#8AE234"><b>wuhy@wuhy</b></font>:<font color="#729FCF"><b>/usr/share/applications</b></font>$ ls
+apport-gtk.desktop                     libreoffice-calc.desktop
+apturl.desktop                         libreoffice-draw.desktop
+bluetooth-sendto.desktop               libreoffice-impress.desktop
+cheese.desktop                         libreoffice-math.desktop
+com.canonical.launcher.amazon.desktop  libreoffice-startcenter.desktop
+<font color="#34E2E2"><b>defaults.list</b></font>                          libreoffice-writer.desktop
+eog.desktop                            libreoffice-xsltfilter.desktop
+evince.desktop                         mimeinfo.cache
+evince-previewer.desktop               mount-archive.desktop
+evolution-calendar.desktop             mutter.desktop
+file-roller.desktop                    nautilus-autorun-software.desktop
+firefox.desktop                        nautilus-classic.desktop
+gcr-prompter.desktop                   nautilus.desktop
+gcr-viewer.desktop                     nautilus-folder-handler.desktop
+gedit.desktop                          nautilus-home.desktop
+geoclue-where-am-i.desktop             nm-applet.desktop
+gkbd-keyboard-display.desktop          nm-connection-editor.desktop
+gnome-background-panel.desktop         notification-daemon.desktop
+gnome-bluetooth-panel.desktop          org.gnome.baobab.desktop
+gnome-color-panel.desktop              org.gnome.Calendar.desktop
+gnome-control-center.desktop           org.gnome.Cheese.desktop
+gnome-datetime-panel.desktop           org.gnome.DejaDup.desktop
+gnome-default-apps-panel.desktop       org.gnome.DiskUtility.desktop
+gnome-disk-image-mounter.desktop       org.gnome.FileRoller.desktop
+gnome-disk-image-writer.desktop        org.gnome.font-viewer.desktop
+gnome-display-panel.desktop            org.gnome.gedit.desktop
+gnome-info-overview-panel.desktop      org.gnome.Nautilus.desktop
+<font color="#34E2E2"><b>gnome-initial-setup.desktop</b></font>            org.gnome.PowerStats.desktop
+gnome-keyboard-panel.desktop           org.gnome.Screenshot.desktop
+gnome-language-selector.desktop        org.gnome.Shell.desktop
+gnome-mahjongg.desktop                 org.gnome.Shell.PortalHelper.desktop
+gnome-mines.desktop                    org.gnome.Software.desktop
+gnome-mouse-panel.desktop              org.gnome.Software.Editor.desktop
+gnome-network-panel.desktop            org.gnome.Terminal.desktop
+gnome-notifications-panel.desktop      org.gnome.Todo.desktop
+gnome-online-accounts-panel.desktop    org.gnome.Totem.desktop
+gnome-power-panel.desktop              org.remmina.Remmina.desktop
+gnome-printers-panel.desktop           python3.6.desktop
+gnome-privacy-panel.desktop            remmina-file.desktop
+gnome-region-panel.desktop             rhythmbox.desktop
+gnome-removable-media-panel.desktop    rhythmbox-device.desktop
+gnome-search-panel.desktop             seahorse.desktop
+gnome-session-properties.desktop       shotwell.desktop
+gnome-sharing-panel.desktop            shotwell-viewer.desktop
+gnome-shell-extension-prefs.desktop    simple-scan.desktop
+gnome-software-local-file.desktop      snap-handle-link.desktop
+gnome-sound-panel.desktop              software-properties-drivers.desktop
+gnome-sudoku.desktop                   software-properties-gtk.desktop
+gnome-terminal.desktop                 software-properties-livepatch.desktop
+gnome-thunderbolt-panel.desktop        sol.desktop
+gnome-ubuntu-panel.desktop             system-config-printer.desktop
+gnome-universal-access-panel.desktop   thunderbird.desktop
+gnome-user-accounts-panel.desktop      totem.desktop
+gnome-wacom-panel.desktop              transmission-gtk.desktop
+gnome-wifi-panel.desktop               ubuntu-amazon-default.desktop
+hplj1020.desktop                       update-manager.desktop
+ibus-setup.desktop                     usb-creator-gtk.desktop
+ibus-setup-libbopomofo.desktop         vim.desktop
+ibus-setup-libpinyin.desktop           vino-server.desktop
+ibus-setup-table.desktop               xdg-desktop-portal-gtk.desktop
+im-config.desktop                      yelp.desktop
+<font color="#8AE234"><b>wuhy@wuhy</b></font>:<font color="#729FCF"><b>/usr/share/applications</b></font>$ ls | grep Am
+<font color="#8AE234"><b>wuhy@wuhy</b></font>:<font color="#729FCF"><b>/usr/share/applications</b></font>$ ls | grep A
+<font color="#8AE234"><b>wuhy@wuhy</b></font>:<font color="#729FCF"><b>/usr/share/applications</b></font>$ ls | grep am
+com.canonical.launcher.<font color="#EF2929"><b>am</b></font>azon.desktop
+geoclue-where-<font color="#EF2929"><b>am</b></font>-i.desktop
+ubuntu-<font color="#EF2929"><b>am</b></font>azon-default.desktop
+<font color="#8AE234"><b>wuhy@wuhy</b></font>:<font color="#729FCF"><b>/usr/share/applications</b></font>$ sudo rm -rf ubuntu-amazon-default.desktop 
+[sudo] wuhy 的密码： 
+<font color="#8AE234"><b>wuhy@wuhy</b></font>:<font color="#729FCF"><b>/usr/share/applications</b></font>$ 
+</pre>
